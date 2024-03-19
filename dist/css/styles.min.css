@@ -41,7 +41,10 @@
     --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace
 }
 .link-danger{
-    color: red;
+    color: #DC3545;
+}
+.link-danger:hover{
+    color: #DC3545;
 }
 
 *,::after,::before {
